@@ -1,3 +1,0 @@
-/home/maks/work/synth83/build/CMakeFiles/rebuild_cache.dir
-/home/maks/work/synth83/build/CMakeFiles/edit_cache.dir
-/home/maks/work/synth83/build/CMakeFiles/synth.dir
