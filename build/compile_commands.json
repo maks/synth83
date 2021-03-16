@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/android_glue.cc.o -c /home/maks/work/synth83/src/android_glue.cc",
+  "file": "/home/maks/work/synth83/src/android_glue.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/dx7note.cc.o -c /home/maks/work/synth83/src/dx7note.cc",
+  "file": "/home/maks/work/synth83/src/dx7note.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/env.cc.o -c /home/maks/work/synth83/src/env.cc",
+  "file": "/home/maks/work/synth83/src/env.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/exp2.cc.o -c /home/maks/work/synth83/src/exp2.cc",
+  "file": "/home/maks/work/synth83/src/exp2.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/fir.cc.o -c /home/maks/work/synth83/src/fir.cc",
+  "file": "/home/maks/work/synth83/src/fir.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/fm_core.cc.o -c /home/maks/work/synth83/src/fm_core.cc",
+  "file": "/home/maks/work/synth83/src/fm_core.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/fm_op_kernel.cc.o -c /home/maks/work/synth83/src/fm_op_kernel.cc",
+  "file": "/home/maks/work/synth83/src/fm_op_kernel.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/freqlut.cc.o -c /home/maks/work/synth83/src/freqlut.cc",
+  "file": "/home/maks/work/synth83/src/freqlut.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/lfo.cc.o -c /home/maks/work/synth83/src/lfo.cc",
+  "file": "/home/maks/work/synth83/src/lfo.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/log2.cc.o -c /home/maks/work/synth83/src/log2.cc",
+  "file": "/home/maks/work/synth83/src/log2.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/patch.cc.o -c /home/maks/work/synth83/src/patch.cc",
+  "file": "/home/maks/work/synth83/src/patch.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/pitchenv.cc.o -c /home/maks/work/synth83/src/pitchenv.cc",
+  "file": "/home/maks/work/synth83/src/pitchenv.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/resofilter.cc.o -c /home/maks/work/synth83/src/resofilter.cc",
+  "file": "/home/maks/work/synth83/src/resofilter.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/ringbuffer.cc.o -c /home/maks/work/synth83/src/ringbuffer.cc",
+  "file": "/home/maks/work/synth83/src/ringbuffer.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/sawtooth.cc.o -c /home/maks/work/synth83/src/sawtooth.cc",
+  "file": "/home/maks/work/synth83/src/sawtooth.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/sin.cc.o -c /home/maks/work/synth83/src/sin.cc",
+  "file": "/home/maks/work/synth83/src/sin.cc"
+},
+{
+  "directory": "/home/maks/work/synth83/build",
+  "command": "/usr/bin/c++ -Dsynth_EXPORTS -I../include -g -fPIC -Wno-c++11-narrowing -o CMakeFiles/synth.dir/src/synth_unit.cc.o -c /home/maks/work/synth83/src/synth_unit.cc",
+  "file": "/home/maks/work/synth83/src/synth_unit.cc"
+}
+]
