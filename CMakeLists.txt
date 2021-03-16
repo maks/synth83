@@ -37,22 +37,6 @@ add_library( # Specifies the name of the library.
              src/synth_unit.cc
         )
 
-find_library( # Defines the name of the path variable that stores the
-              # location of the NDK library.
-              log-lib
-
-              # Specifies the name of the NDK library that
-              # CMake needs to locate.
-              log )
-
-find_library( # Defines the name of the path variable that stores the
-              # location of the NDK library.
-              openSL-ES
-
-              # Specifies the name of the NDK library that
-              # CMake needs to locate.
-              OpenSLES )
-
 target_compile_options(synth PRIVATE -Wno-c++11-narrowing)
 
 include_directories("include")
